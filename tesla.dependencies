@@ -1,9 +1,9 @@
 [
   {
     "remote":     "github",  
-    "repository": "TheMuppets/proprietary_vendor_motorola",
+    "repository": "BigTopKrazies/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
-    "branch": "cm-13.0"
+    "branch": "mm6.0"
   },
   {
     "remote":      "github",  
