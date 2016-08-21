@@ -31,11 +31,7 @@ PRODUCT_MANUFACTURER := motorola
 #PRODUCT_RESTRICT_VENDOR_FILES := true
 
 $(call inherit-product, device/moto/shamu/device.mk)
-<<<<<<< HEAD
 $(call inherit-product-if-exists, vendor/motorola/shamu/shamu-vendor.mk)
-=======
-$(call inherit-product-if-exists, vendor/moto/shamu/device-vendor.mk)
->>>>>>> tipsy/6.0
 
 PRODUCT_NAME := aosp_shamu
 
