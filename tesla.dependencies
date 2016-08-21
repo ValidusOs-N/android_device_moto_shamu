@@ -1,3 +1,4 @@
+
 [
   {
     "remote":     "github",  
@@ -9,6 +10,6 @@
     "remote":      "github",  
     "repository": "GZR-Kernels/Shamu_Drunk_Kernel",
     "target_path": "kernel/moto/shamu",
-    "branch": "tesla"
+    "branch": "test"
   }
 ]
