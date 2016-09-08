@@ -6,7 +6,7 @@
     "branch": "n"
   },
   {
-    "remote":      "github",  
+    "remote":      "val",  
     "repository": "kernel_moto_shamu",
     "target_path": "kernel/moto/shamu",
     "branch": "7.0"
