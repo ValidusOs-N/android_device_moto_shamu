@@ -3,12 +3,12 @@
     "remote":     "github",  
     "repository": "BigTopKrazies/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
-    "branch": "mm6.0"
+    "branch": "n"
   },
   {
     "remote":      "github",  
-    "repository": "GZR-Kernels/Shamu_Drunk_Kernel",
+    "repository": "kernel_moto_shamu",
     "target_path": "kernel/moto/shamu",
-    "branch": "tesla"
+    "branch": "7.0"
   }
 ]
